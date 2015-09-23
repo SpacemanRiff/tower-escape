@@ -12,8 +12,9 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\chararcter</object>
     <object>objects\wall</object>
+    <object>objects\character</object>
+    <object>objects\supervisor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
